@@ -1,0 +1,2 @@
+# musicapp
+simple django project
